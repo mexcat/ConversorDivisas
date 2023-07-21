@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConversorDivisas</string>
+    <string name="convertir">Convertir</string>
+    <string name="convertir_a">Convertir a:</string>
+</resources>
